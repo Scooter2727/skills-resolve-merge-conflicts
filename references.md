@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+I hope that these changes cause a conflict
